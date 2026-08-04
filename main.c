@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    printf("this fucking thing worked!");
+    printf("this thing worked!");
 
     return 0;
 }
